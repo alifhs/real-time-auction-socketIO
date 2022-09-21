@@ -18,6 +18,7 @@ const socketIO = require("socket.io")(http, {
   },
 });
 function findProduct(nameKey, productsArray, last_bidder, new_price) {
+  console.log("new price", new_price);
   for (let i = 0; i < productsArray.length; i++) {
     if (productsArray[i].name === nameKey) {
       productsArray[i].last_bidder = last_bidder;
@@ -48,7 +49,7 @@ socketIO.on("connection", (socket) => {
       data.name,
       productData["products"],
       data.last_bidder,
-      data.amount
+      data.userInput
     );
     socket.broadcast.emit("bidProductResponse", data);
   });
