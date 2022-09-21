@@ -3,19 +3,19 @@
     {
       "name": "Audi 250",
       "price": "500008",
-      "owner": "admiralty20",
+      "owner": "alifhs",
       "last_bidder": "alif.hs@outlook.com"
     },
     {
       "name": "Lamborghini S50",
-      "owner": "susaske40",
+      "owner": "alifhs",
       "price": "20005",
       "last_bidder": "alif.hs@outlook.com"
     },
     {
       "name": "Ferrari F560",
       "price": "100000",
-      "owner": "samson35",
+      "owner": "alifhs",
       "last_bidder": "alif.hs@outlook.com"
     },
     {
@@ -43,8 +43,9 @@
     },
     {
       "name": "Dell 3400",
-      "price": "200",
-      "owner": "Dimitri Haiderovich"
+      "price": "210",
+      "owner": "Dimitri Haiderovich",
+      "last_bidder": "Dimitri Haiderovich"
     }
   ]
 }
