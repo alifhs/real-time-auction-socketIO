@@ -23,6 +23,23 @@
       "owner": "alifhs",
       "price": "100012",
       "last_bidder": "alif.hs@outlook.com"
+    },
+    {
+      "name": "MacBook Pro",
+      "price": "3",
+      "owner": "alif.hs@outlook.com"
+    },
+    {
+      "name": "Redmi Power",
+      "price": "15005",
+      "owner": "alif.hs@outlook.com",
+      "last_bidder": "alif.hs@outlook.com"
+    },
+    {
+      "name": "Macbook Air",
+      "price": "2007",
+      "owner": "Haider",
+      "last_bidder": "Haider"
     }
   ]
 }
