@@ -37,9 +37,14 @@
     },
     {
       "name": "Macbook Air",
-      "price": "2007",
+      "price": "2013",
       "owner": "Haider",
-      "last_bidder": "Haider"
+      "last_bidder": "Dimitri Haiderovich"
+    },
+    {
+      "name": "Dell 3400",
+      "price": "200",
+      "owner": "Dimitri Haiderovich"
     }
   ]
 }
